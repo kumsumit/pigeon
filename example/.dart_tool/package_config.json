@@ -320,7 +320,10 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-03-19T11:21:29.277617Z",
+  "generated": "2024-11-16T16:21:52.509104Z",
   "generator": "pub",
-  "generatorVersion": "3.3.1"
+  "generatorVersion": "3.5.4",
+  "flutterRoot": "file:///home/sumit/softwares/flutter",
+  "flutterVersion": "3.24.5",
+  "pubCache": "file:///home/sumit/.pub-cache"
 }
